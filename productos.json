@@ -4,7 +4,11 @@
         "color": "#002366",
         "whatsapp": "584144339965",
         "tasa": "490.00",
-        "alineacion": "center"
+        "alineacion": "center",
+        "mensaje_bienvenida": "\u00a1Bienvenidos a Kronos Parts! Calidad en repuestos.",
+        "direccion": "Valencia, Carabobo",
+        "instagram": "",
+        "horario": "Lun a Vie: 8am - 5pm / S\u00e1bados: 9am - 1pm"
     },
     "banners": [
         "https://i.ibb.co/8gPCNnCT/68d25c5c1d47.jpg",
